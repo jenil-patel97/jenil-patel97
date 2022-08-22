@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jenilweb10@gmail.com**
 
-- ⚡ Fun fact **Believe it or not I Learnt all this skills by my-self...**
+- ⚡ Fun fact : **Believe it or not I Learnt all this skills by my-self...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
