@@ -24,15 +24,23 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg" alt="express" width="40" height="40"/>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<p align="left">
 <a href="https://code.visualstudio.com/"  target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white </a>  
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white </a>
 <a href ="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E </a> 
 <a href = "https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white </a>  
 <a href = "https://tailwindui.com/" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white </a>  
+<a href = "https://vitejs.dev/"  target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E </a>
+<a href = "https://www.npmjs.com/"  target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white </a>
 <a href = "https://reactjs.org/" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB </a>
+<a href = "https://reactrouter.com/"  target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white  </a> 
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white </a> 
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white </a>  
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black </a>
+<a href= "https://vercel.com/" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white </a>   
 <a href="https://https://github.com//"  target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white </a> 
 
