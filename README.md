@@ -34,6 +34,7 @@
 <a href = "https://vitejs.dev/"  target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E </a>
 <a href = "https://www.npmjs.com/"  target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white </a>
 <a href = "https://reactjs.org/" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB </a>
+<a href = "https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white </a>
 <a href = "https://reactrouter.com/"  target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white  </a> 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src= https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white </a> 
