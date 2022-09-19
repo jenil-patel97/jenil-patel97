@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenil-patel97&label=Profile%20views&color=0e75b6&style=flat" alt="jenil-patel97" /> </p>
 
-- 🌱 I’m currently learning **TypeScript **
+- 🌱 I’m currently learning **Backend**
 
 - 👯 I’m looking to collaborate on **Front-end projects**
 
