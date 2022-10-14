@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jenilweb10@gmail.com**
 
-- ⚡ Fun fact : **Believe it or not I Learnt all this skills by My Self...**
+- ⚡ Fun fact : **Believe it or not I Learnt this skills by My Self...**
  
 - 🏴‍☠️ Hobbies : 🍕, 🏏 , 🎥 , 📚 , 🧘 , 🐶 , 🚲, 💻
 
