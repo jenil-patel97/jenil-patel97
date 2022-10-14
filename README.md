@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenil-patel97&label=Profile%20views&color=0e75b6&style=flat" alt="jenil-patel97" /> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Everything 🤣 **
 
 - 👯 I’m looking to collaborate on **Front-end projects**
-
-- 🤝 I’m looking for help with **Freelancing**
 
 - 💬 Ask me anything about **Front-end development**
 
 - 📫 How to reach me **jenilweb10@gmail.com**
 
-- ⚡ Fun fact : **Believe it or not I Learnt all this skills by my-self...**
+- ⚡ Fun fact : **Believe it or not I Learnt all this skills by My Self...**
+ 
+- 🏴‍☠️ Hobbies : 🍕, 🏏 , 🎥 , 📚 , 🧘 , 🐶 , 🚲, 💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
